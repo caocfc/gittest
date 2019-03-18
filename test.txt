@@ -1,2 +1,3 @@
 it is my test!
 it is my first commit!
+it will be a conflict
